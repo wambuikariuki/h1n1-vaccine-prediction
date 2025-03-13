@@ -58,12 +58,7 @@ The following models were evaluated:
 - The **Random Forest model provided the best predictions**, balancing accuracy and interpretability.  
 - These insights can help **public health officials improve vaccine awareness campaigns** and increase uptake.
 
----
 
-## 📁 Installation & How to Run  
-1️⃣ Install required dependencies:  
-```bash
-pip install -r requirements.txt
 References
 National Flu Survey (NHFS) 2009
 Scikit-Learn Documentation: https://scikit-learn.org
